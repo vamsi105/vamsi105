@@ -11,7 +11,7 @@
 - the practice makes man perfect
 - vamsi needs some money
 - melody likes
-- preethy
+- preethy likes vamsi
 <!---
 vamsi105/vamsi105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
